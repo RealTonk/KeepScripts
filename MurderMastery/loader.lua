@@ -1,12 +1,3 @@
-_G.accesskey = "573820-948786-579407-927242"
-_G.userid = "948490165549150219"
-
-repeat
-    wait()
-until game:IsLoaded()
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RealTonk/KeepScripts/main/BypassClinet/loader.lua"))()
-
 local keys = {
     "573820-948786-579407-927242",
     "431396-650657-012777-812013",
